@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 ln -s /bim/ls ___ls___
